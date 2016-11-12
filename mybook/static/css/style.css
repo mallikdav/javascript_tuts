@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+    background-color: #b5dae8;
+}
+
+header {
+    width: 100%;
+    background-color: #b5dae8;
+}
+
+
+#logo_block {
+    width: 10%;
+    float:left;
+}
+
+#right_block {
+    width: 90%;
+    float:right;
+}
+
+#logo {
+    width: 60px;
+}
+
+#main_container {
+    width: 100%;
+    height: 500px;
+}
+
+#left_container_block {
+    width: 20%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid whitesmoke;
+}
+
+#profile_pic {
+    width: 175px;
+}
+
+#profile_block {
+    border: solid 5px #cbe9ec;
+    width: 175px;
+    border-radius: 5px;
+}
+
+#right_container_block {
+    width: 70%;
+    height: 100%;
+    float: right;
+}
